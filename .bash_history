@@ -219,3 +219,75 @@ pkg search pypi
 p
 Command [
 comsatd
+pytest
+pkg search
+test
+# 1. Initialize the local repository tracker
+git init
+# 2. Configure your identity globally (Replace with your actual info)
+git config --global user.name "minhtfresh"
+git config --global user.email "mqt921@gmail.com"
+# 3. Add every single file to the temporary staging area
+git add .
+# 4. Commit your files into local historical checkpoints
+git commit -m "feat: initial commit of minhtfresh's AI security gateway and cloud assets"
+# 5. Point your tracking lane to 'main'
+git branch -M main
+# 6. Bind your machine directory to your remote GitHub destination
+# (Replace with the actual URL you copied in Step 1)
+git remote add origin https://github.com/minhtfresh/ai-security-gateway
+# 7. Securely push your files up to the cloud
+git push -u origin main
+# 1. Initialize the local repository tracker
+git init 
+# 2. Configure your identity globally (Replace with your actual info)
+git config --global user.name "minhtfresh"
+git config --global user.email "mqt921@gmail.com"
+# 3. Add every single file to the temporary staging area
+git add .
+# 4. Commit your files into local historical checkpoints
+git commit -m "feat: initial commit of minhtfresh's AI security gateway and cloud assets"
+# 5. Point your tracking lane to 'main'
+git branch -M main
+# 6. Bind your machine directory to your remote GitHub destination
+# (https://github.com/minhtfresh/ai-security-gateway)
+git remote add origin https://github.com/minhtfresh/ai-security-gateway
+# 7. Securely push your files up to the cloud
+git push -u origin main
+gitpush
+git push
+git push --set-upstream origin main
+push.autoSetupRemote
+git push --set-upstream origin https://github.com/minhtfresh/ai-security-gateway/
+git push --set-upstream origin main 'https://github.com/minhtfresh/ai-security-gateway/'
+git push
+git push --set-upstream origin main
+# 1. Update the 'origin' URL to your actual repository path
+git remote set-url origin https://github.com/minhtfresh/ai-security-gateway
+# 2. Push your code again
+git push --set-upstream origin main
+git push
+git push --set-upstream origin main
+git remote -v
+# 1. Update the 'origin' URL to your actual repository path
+git remote set-url origin https://github.com/MinhTfresh/ai-security-gateway
+# 2. Push your code again
+git push --set-upstream origin main
+git push
+git remote set-url origin https://github.com/MinhTfresh/ai-security-gateway
+git push --set-upstream origin main
+git pull
+git push
+git push --set-upstream origin main
+git pull
+git branch --set-upstream-to=origin/<branch> main
+git pull
+git push
+remote set-url origin https://github.com/MinhTfresh/ai-security-gateway
+recode
+pkg install recode
+git push --set-upstream origin main
+||git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories --no-rebase
+git push origin main
